@@ -1,0 +1,8 @@
+{
+  "name": "ScholarSetu AI",
+  "description": "AI-powered scholarship and government opportunity finder for students with eligibility explanations and interactive document checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
